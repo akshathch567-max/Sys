@@ -1,2 +1,0 @@
-# Sys
-Smart attendance System
